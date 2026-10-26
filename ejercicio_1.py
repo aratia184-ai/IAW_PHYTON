@@ -1,2 +1,2 @@
-nombre = input (¿Cómo te llamas?)
-print("Hello, " + nombre + " "!") 
+nombre = input ("¿Cómo te llamas?")
+print(f"Hello, {nombre}!") 
